@@ -1,0 +1,2 @@
+rootProject.name='ComicReaderFire'
+include ':app'
